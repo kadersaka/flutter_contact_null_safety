@@ -5,10 +5,12 @@ import 'package:collection/collection.dart'
     hide IterableExtension, IterableNullableExtension;
 import 'package:dartxx/dartxx.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flexidate/flexidate.dart';
+// import 'package:flexidate/flexidate.dart';
 import 'package:flutter_contact/single_contacts.dart';
 import 'package:flutter_contact/unified_contacts.dart';
 import 'package:logging/logging.dart';
+
+import 'lib/flexible_date.dart';
 
 final flutterContactLog = Logger('flutterContact');
 
